@@ -99,7 +99,7 @@
                     <li>Minimal pinjaman: <strong>Rp 500.000</strong></li>
                     <li>Maksimal pinjaman: <strong>Rp 50.000.000</strong></li>
                     <li>Jangka waktu: <strong>3-60 bulan</strong></li>
-                    <li>Pengajuan diproses dengan sistem <strong>FCFS</strong> (First Come First Served)</li>
+                    <li>Pengajuan diproses secara <strong>berurutan</strong> sesuai waktu penerimaan</li>
                     <li>Proses persetujuan maksimal <strong>3 hari kerja</strong></li>
                 </ul>
             </div>
