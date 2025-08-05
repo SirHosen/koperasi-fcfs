@@ -74,6 +74,6 @@ Koperasi FCFS adalah aplikasi berbasis web untuk pengelolaan simpanan dan pinjam
 
 ## Lisensi
 
-Aplikasi ini dirilis di bawah [MIT License](https://opensource.org/licenses/MIT).
+Aplikasi ini dirilis di bawah [MIT License](LICENSE).
 
 ---
