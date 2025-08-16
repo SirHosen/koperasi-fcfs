@@ -398,7 +398,7 @@
             <div class="card">
                 <div class="card-body">
                     <div class="logo">
-                        <img src="https://via.placeholder.com/150x70/2563eb/ffffff?text=KOPERASI" alt="Logo Koperasi">
+                        <img src="image/logo.jpg" alt="Logo Koperasi">
                     </div>
 
                     <h3 class="text-center">Daftar Akun Baru</h3>

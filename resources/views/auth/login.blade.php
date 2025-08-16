@@ -149,7 +149,7 @@
             <div class="card shadow">
                 <div class="card-body">
                     <div class="logo">
-                        <img src="https://via.placeholder.com/150x70?text=KOPERASI" alt="Logo">
+                        <img src="image/logo.jpg" alt="Logo">
                     </div>
 
                     <h3 class="text-center mb-2">Selamat Datang</h3>
